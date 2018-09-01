@@ -1,3 +1,2 @@
-print("shivang");
-print("helo world");
-print("hi");
+while true:
+    
