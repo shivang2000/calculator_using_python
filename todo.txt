@@ -1,0 +1,2 @@
+first is a infinite loop for making the calculator app run forever
+create a switch to select what to do addition subtraction etc
